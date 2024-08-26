@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205461655074",
+    "project_id": "atnews-1810",
+    "storage_bucket": "atnews-1810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205461655074:android:eaaf6546e8d8177abd047b",
+        "android_client_info": {
+          "package_name": "com.atnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205461655074-vn9s8717a5diqjsq61orkqmq9js0kmrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkZZ0F6tbnbTh1KSBONl7QHu4nYuAJJqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205461655074-vn9s8717a5diqjsq61orkqmq9js0kmrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
